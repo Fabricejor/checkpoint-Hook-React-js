@@ -1,0 +1,13 @@
+.card{
+    width: 18rem ;
+    margin:10px;
+}
+.card-body{
+    background-color:#B4D4FF;
+}
+.div{
+    display: flex;
+}
+.div .h6 {
+    padding-right:35%;
+}

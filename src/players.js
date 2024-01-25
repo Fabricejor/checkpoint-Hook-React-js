@@ -9,7 +9,12 @@ const Players = [
         age: 22,
         imageUrl:"https://pbs.twimg.com/media/FkMj-p9XgAAcjEX?format=jpg&name=medium",
     },
-    // 
+    /*Jordan Zinhio: Une Épopée Sportive Imaginaire
+Dans le monde fictif du football, émerge une figure emblématique,
+un attaquant talentueux qui porte le nom de Jordan Zinhio. 
+À l'âge de 22 ans, ce joueur exceptionnel représente avec fierté 
+l'équipe nationale de Cabo Verde. Plongeons dans l'univers captivant de 
+ce joueur fictif .*/ 
     {
         id: 24,
         name: "Michael Jordan",
@@ -37,6 +42,7 @@ const Players = [
     {
         id:0
     }
+    
 ];
 // FI NI On crée un tableau d'objet qui contient toutes les informations sur les joeurs FICTIFS 
 // { PS Je regarde tres tres rarement le fout compettiton mondial /national rek lay setane}

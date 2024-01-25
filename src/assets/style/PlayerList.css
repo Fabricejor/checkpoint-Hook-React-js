@@ -1,0 +1,8 @@
+h1 .text-center{
+    margin-bottom: 50;
+}
+
+div .div{
+    display: flex;
+    justify-content: space-between;
+}
